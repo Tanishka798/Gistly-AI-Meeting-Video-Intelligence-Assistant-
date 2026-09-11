@@ -4,12 +4,12 @@ Gistly turns any YouTube video or local audio/video file into a searchable, chat
 
 ## Features
 
-- 🎥 **Flexible input** — accepts a YouTube URL or a local file path
-- 🌐 **Multilingual transcription** — local Whisper for English, Sarvam AI's speech-to-text-translate API for Hindi → English
-- 📋 **Automatic summarization** — concise summary and auto-generated title for every session
-- ✅ **Structured extraction** — action items, key decisions, and open questions pulled straight from the transcript
-- 💬 **RAG chat** — ask questions about the meeting and get answers grounded in the actual transcript, powered by LangChain + ChromaDB + Mistral
-- 🎨 **Custom UI** — fully themed Streamlit interface, no default styling
+- 🎥 **Flexible input** - accepts a YouTube URL or a local file path
+- 🌐 **Multilingual transcription** - local Whisper for English, Sarvam AI's speech-to-text-translate API for Hindi → English
+- 📋 **Automatic summarization** - concise summary and auto-generated title for every session
+- ✅ **Structured extraction** - action items, key decisions, and open questions pulled straight from the transcript
+- 💬 **RAG chat** - ask questions about the meeting and get answers grounded in the actual transcript, powered by LangChain + ChromaDB + Mistral
+- 🎨 **Custom UI** - fully themed Streamlit interface, no default styling
 
 ## Tech Stack
 
@@ -80,7 +80,7 @@ The app opens at `http://localhost:8501`.
 ## Usage
 
 1. Paste a YouTube URL or a local file path in the sidebar
-2. Choose a language — `english` (local Whisper) or `hinglish` (Sarvam API)
+2. Choose a language - `english` (local Whisper) or `hinglish` (Sarvam API)
 3. Click **Analyse** to run the pipeline
 4. Review the summary, action items, key decisions, and open questions
 5. Use the chat panel at the bottom to ask questions about the transcript
