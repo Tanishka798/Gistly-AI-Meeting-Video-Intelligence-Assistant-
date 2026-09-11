@@ -1,4 +1,4 @@
-# ⚙️ Gistly — AI Meeting & Video Intelligence Assistant
+# ⚙️ Gistly - AI Meeting & Video Intelligence Assistant
 
 Gistly turns any YouTube video or local audio/video file into a searchable, chattable meeting record. It transcribes the audio, generates a summary, extracts action items, key decisions, and open questions, and lets you ask follow-up questions grounded in the transcript through a RAG-powered chat interface.
 
